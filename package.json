@@ -1,0 +1,23 @@
+{
+  "name": "javascript-code-challenges",
+  "version": "1.0.0",
+  "description": "Javascript challenges written using NodeJS from code challenge webs like codewars, hackerrank, coderbyte... etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlushyZeus35/javascript-code-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlushyZeus35/javascript-code-challenges/issues"
+  },
+  "homepage": "https://github.com/PlushyZeus35/javascript-code-challenges#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "jest": "^29.1.2"
+  }
+}
